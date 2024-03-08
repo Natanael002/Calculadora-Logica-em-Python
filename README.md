@@ -29,11 +29,11 @@ pip install tabulate
 
 ## Exemplo de Uso
 
-# Menu para Utilização da calculadora
+### Menu para Utilização da calculadora
 ![image](https://github.com/Natanael002/Calculadora-L-gica-em-Python/assets/145075911/0d372a12-d835-4b99-99ca-4146294ab8eb)
-# Calculadora de operações lógicas
+### Calculadora de operações lógicas
 ![image](https://github.com/Natanael002/Calculadora-L-gica-em-Python/assets/145075911/e90c2ba7-6539-4fc4-b99d-a50b073c885e)
-# Gerador de tabela verdade
+### Gerador de tabela verdade
 ![image](https://github.com/Natanael002/Calculadora-L-gica-em-Python/assets/145075911/913cd95b-06e4-48cc-bdc5-55f70a5a723a)
 ![image](https://github.com/Natanael002/Calculadora-L-gica-em-Python/assets/145075911/f8db14a2-c476-438e-9069-8e057e8cd49a)
 
